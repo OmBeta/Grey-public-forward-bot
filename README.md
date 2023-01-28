@@ -10,6 +10,8 @@
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Greymattersbot/public-forward-bot)
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/OmBeta/Grey-public-forward-bot&branch=main&name=Grey-Subpins-auto-forward)
+
 ### Variables
 
 * `API_HASH` API Hash from my.telegram.org
